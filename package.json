@@ -1,0 +1,14 @@
+{
+  "name": "react-express",
+  "version": "1.0.0",
+  "description": "server to showcase how APIs work",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
